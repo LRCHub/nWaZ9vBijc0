@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Wishing",
+  "base_artist": "レム（CV:水瀬いのり）",
+  "createdAt": "2026-02-20T06:43:05.545424Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sitting, Waiting, Wishing",
+      "artist": "Jack Johnson",
+      "has_synced": true,
+      "path": "select/01_Sitting,_Waiting,_Wishing_Jack_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wishing (If I Had a Photograph of You)",
+      "artist": "Nouvelle Vague",
+      "has_synced": true,
+      "path": "select/02_Wishing_(If_I_Had_a_Photograph_of_You)_Nouvelle_Vague.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wishing I Was There",
+      "artist": "Natalie Imbruglia",
+      "has_synced": true,
+      "path": "select/03_Wishing_I_Was_There_Natalie_Imbruglia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wishing Well",
+      "artist": "Free",
+      "has_synced": false,
+      "path": "select/04_Wishing_Well_Free.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Wish I Could Stop Wishing For Things",
+      "artist": "The Servant",
+      "has_synced": false,
+      "path": "select/05_I_Wish_I_Could_Stop_Wishing_For_Things_The_Servant.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wishing You Were Somehow Here Again",
+      "artist": "Hayley Westenra",
+      "has_synced": true,
+      "path": "select/06_Wishing_You_Were_Somehow_Here_Again_Hayley_Westenra.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wish You'd Stop Wishing",
+      "artist": "Dannii Minogue",
+      "has_synced": false,
+      "path": "select/07_Wish_You'd_Stop_Wishing_Dannii_Minogue.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wishing Well",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/08_Wishing_Well_INXS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wishing You Were Here",
+      "artist": "Alison Moyet",
+      "has_synced": true,
+      "path": "select/09_Wishing_You_Were_Here_Alison_Moyet.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wishing You Were Here",
+      "artist": "Black",
+      "has_synced": true,
+      "path": "select/10_Wishing_You_Were_Here_Black.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wishing You Were Here - Live",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/11_Wishing_You_Were_Here_-_Live_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wishing",
+      "artist": "Electric Light Orchestra",
+      "has_synced": false,
+      "path": "select/12_Wishing_Electric_Light_Orchestra.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wishing",
+      "artist": "レム(CV:水瀬いのり)",
+      "has_synced": false,
+      "path": "select/pl_01_Wishing_レム(CV_水瀬いのり).txt"
+    }
+  ]
+}
